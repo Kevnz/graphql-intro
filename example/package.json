@@ -1,0 +1,29 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/first.js",
+    "first": "nodemon src/first.js",
+    "second": "nodemon src/second.js",
+    "third": "nodemon src/third.js",
+    "fourth": "nodemon src/fourth.js",
+    "fifth": "nodemon src/fifth.js",
+    "sixth": "nodemon src/sixth.js",
+    "seventh": "nodemon src/seventh.js",
+    "eighth": "nodemon src/eighth.js"
+  },
+  "keywords": [],
+  "author": "Kevin Isom",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.3.3",
+    "chalk": "^2.4.2",
+    "dataloader": "^1.4.0",
+    "graphql": "^14.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}

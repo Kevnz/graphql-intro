@@ -1,0 +1,37 @@
+{
+    project(name: "REST") {
+			tagline,
+      contributors{
+        name
+        email,
+        projects{
+          name
+          tagline
+          contributors {
+            name
+            projects{
+              name
+              tagline
+              contributors {
+                name
+                projects{
+                  name
+                  tagline
+                  contributors {
+                    name
+                    projects{
+                      name
+                      tagline
+                      contributors {
+                        name
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "editor.fontSize": 12,
+  "eslint.autoFixOnSave": true,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#0668fa",
+    "titleBar.inactiveBackground": "#165681cc"
+  },
+  "vsicons.associations.files": [
+    {
+      "icon": "markdown",
+      "extensions": [
+        "deck.mdx"
+      ],
+      "extensionsGlob": [
+        "mdx"
+      ],
+      "filename": true,
+      "format": "svg"
+    }
+  ]
+}
